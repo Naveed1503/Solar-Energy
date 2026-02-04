@@ -69,8 +69,6 @@ Follow these steps to set up the project locally and explore the solar energy an
 
 2.  **install dependencies in Google Colab (recommended)**
     ```!pip install streamlit pyngrok scikit-learn plotly pandas numpy
-
-
     ```
 
 3.  **Start colab Notebook**
