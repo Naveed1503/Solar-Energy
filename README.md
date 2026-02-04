@@ -85,7 +85,7 @@ print(public_url)
 
     ```
 
-5.  **Run the application**
+4.  **Run the application**
     streamlit run app.py --server.port 8501 --server.address 0.0.0.0
 Open the generated ngrok URL in a new browser tab.
 
