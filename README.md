@@ -32,7 +32,7 @@ This project presents a web-based Solar Energy Forecasting Dashboard developed u
 ## 🖥️ Screenshots
 
 <!-- TODO: Add actual screenshots of key visualizations and analysis outputs from the `SolarEnergyipynb.ipynb` notebook. -->
-_Please open the `SolarEnergyipynb.ipynb` notebook to view the interactive visualizations and analysis results._
+_Please open the `SolarEnergy.ipynb` notebook to view the interactive visualizations and analysis results._
 
 ## 🛠️ Tech Stack
 
